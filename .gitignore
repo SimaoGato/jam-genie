@@ -25,3 +25,13 @@ replay_pid*
 
 JamGenie/gradle/*
 JamGenie/.idea/*
+
+# Other temporary files
+.tmp/
+caches/
+daemon/
+kotlin-profile/
+native/
+wrapper/
+
+

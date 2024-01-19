@@ -6,6 +6,7 @@
 
         <!-- dark mode -->
         <item name="android:windowBackground">@color/darkBackground</item>
+        <item name="android:textColor">@color/darkTextColor</item>
     </style>
 
     <style name="Theme.JamGenie" parent="Base.Theme.JamGenie" />
