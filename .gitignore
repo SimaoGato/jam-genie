@@ -33,5 +33,6 @@ daemon/
 kotlin-profile/
 native/
 wrapper/
+jdks/
 
 
