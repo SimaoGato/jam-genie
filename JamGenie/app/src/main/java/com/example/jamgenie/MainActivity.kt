@@ -10,10 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var button = findViewById<Button>(R.id.buttonRandomChord)
-        button.setOnClickListener {
-            val intent = Intent (this, RandomChordActivity::class.java)
-            startActivity(intent)
+        var generateRandomChordButton = findViewById<Button>(R.id.buttonRandomChord)
+        generateRandomChordButton.setOnClickListener {
+            val generateRandomChordIntent = Intent (this, RandomChordActivity::class.java)
+            startActivity(generateRandomChordIntent)
         }
     }
 }
