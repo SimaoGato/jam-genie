@@ -1,5 +1,7 @@
 # Jam Genie
 
+![Main Screen](assets/main-screen.png)
+
 ## Overview
 
 JamGenie is a simple Android app developed with the goal of learning Android development. The app serves as a useful tool for musicians by providing random chord generation for music practice. The project focuses on hands-on experience in Android app development using Kotlin and Android Studio.
