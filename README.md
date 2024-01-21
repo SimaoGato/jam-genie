@@ -1,6 +1,10 @@
 # Jam Genie
 
-![Main Screen](assets/main-screen.png)
+<div align="center">
+  <p align="center">
+    <img src="assets/main-screen.png" alt="Main Screen" width="600">
+  </p>
+</div>
 
 ## Overview
 
