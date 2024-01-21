@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="assets/main-screen.png" alt="Main Screen" width="600">
+    <img src="assets/main-screen.png" alt="Main Screen" width="250">
   </p>
 </div>
 
